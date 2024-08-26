@@ -32,3 +32,4 @@ uritemplate==3.0.1
 urllib3==1.26.14
 webdriver-manager==3.8.5
 wsproto==1.2.0
+flask
